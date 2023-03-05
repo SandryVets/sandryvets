@@ -1,9 +1,11 @@
-### Hi 👋, I'm Sandra Álvaro
+# Hi 👋, I'm Sandra Álvaro
 
 ## ✨About me
 
 My name is **Sandra Álvaro**. I'm 27 years old and I'm from Madrid, Spain. 
+
 I've always liked the programming world and a few months ago I decided to make it my profession. So I want to become a FullStack developer 💻.
+
 Right now I'm taking the *Full-stack JavaScript Bootcamp* at Undefined Academy.
 
 ### Five Linux commands I learned in the Bootcamp.
