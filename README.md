@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sandra Álvaro
+# Hi 👋, I'm Sandra
 
 ## ✨About me
 
