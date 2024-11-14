@@ -23,20 +23,5 @@ Right now I'm taking the *Full-stack JavaScript Bootcamp* at Undefined Academy.
 - SQL
 - Python
 
-### Five Linux commands I learned in the Bootcamp.
-| Command  | Description                                        | 
-|----------|----------------------------------------------------|
-| *cd*     | Change directory.                                  |
-| *pwd*    | Shows you the path to the directory you are in.    |
-| *mkdir*  | Create a new folder with its name.                 |
-| *ls*     | List the files in the folder where you are located.|
-| *rm*     | Allows us to delete a file.                        |
-
-### Two aliases that may be useful for Linux.
-
-| Command                                                     | Description                               | 
-|-------------------------------------------------------------|-------------------------------------------|
-| *actualizar="sudo apt update && sudo apt dist-upgrade -y"*  | Updating the operating system.            |
-| *count="find . -type f* / *wc -l"*                          | Counts the files contained in a directory.|
 
 You can find out more about me at: https://github.com/SandryVets
